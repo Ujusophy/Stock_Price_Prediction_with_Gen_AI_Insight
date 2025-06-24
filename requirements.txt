@@ -1,0 +1,15 @@
+yfinance
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+prophet
+darts
+torch
+transformers
+llama-index
+langchain
+python-dotenv
+pandas_datareader
+sentence-transformers
